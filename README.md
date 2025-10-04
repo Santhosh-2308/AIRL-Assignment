@@ -30,10 +30,10 @@ Dropout                  	0.1
 Optimizer	               AdamW
 Learning rate schedule	Cosine Annealing
 Batch size	              128
-Number of epochs	         50
+Number of epochs	         5
 Results
 Metric	Value
-Test Accuracy (%)	89.5
+Test Accuracy (%)	        55.7
 
 
 # Q2 — Text-Driven Image Segmentation with SAM 2
